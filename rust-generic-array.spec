@@ -5,8 +5,8 @@
 %global crate generic-array
 
 Name:           rust-%{crate}
-Version:        0.12.0
-Release:        7%{?dist}
+Version:        1.4.4
+Release:        1%{?dist}
 Summary:        Generic types implementing functionality of arrays
 
 # Upstream license specification: MIT
